@@ -1,2 +1,2 @@
-# mysql_learning
-MySQL练习
+# sql_learning
+SQL练习
